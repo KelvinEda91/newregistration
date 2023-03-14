@@ -27,14 +27,14 @@ li a{
 }
 
 ul{
-    /* background-color: rgba(128, 206, 229, 0.322); */
+    /* background-color: rgba(148, 206, 229, 0.322); */
     padding: 17px 17px;
     line-height: 30px;
 
 }
 
 .logo img{
-    width: 140px;
+    width: 145px;
 }
 
 .header{
@@ -58,7 +58,7 @@ ul{
 li a:hover{
     border-bottom: 4px white solid;
     color: rgb(238, 157, 52);
-    border-radius: 12px;
+    border-radius: 10px;
 }
 
 ul li{
@@ -73,7 +73,7 @@ ul li{
 }
 
 .hero-container h1{
-    font-size: 45px;
+    font-size: 44px;
     font-family: cursive,fantasy;
     color: rgba(17, 205, 230, 0.925);
     font-weight: bold;
@@ -86,7 +86,7 @@ ul li{
 }
 
 .btn1{
-    padding: 8px 30px;
+    padding: 8px 32I px;
     margin-left: 10px;
     border-radius: 10px;
     color: rgb(247, 242, 242);
